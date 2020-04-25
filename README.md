@@ -3,5 +3,5 @@
 ## Nvidia's DLI course for Fundamentals of Deep Learning for Computer Vision
 ### Learning Objectives:
 ![image]("./Accomplishment.png")
-![image]("./certifcation.png")
+![image](https://github.com/mohcinemadkour/Nvidia-DLI-s-C-FX-01/blob/master/certifcation.PNG)
 
